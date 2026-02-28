@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.204.252.90:8081/repository/myjava-appdeploy/</url>
+		    <url>http://43.204.147.167:8081/repository/myfirstnexus/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <url>http://43.204.147.167:8081/repository/myfirstnexus/</url>
 		</repository>
   	</distributionManagement>
 	
